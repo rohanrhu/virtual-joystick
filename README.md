@@ -1,7 +1,7 @@
  # virtual-joystick
 Virtual joystick plugin for Godot Engine.
 
-![Godot Virtual Joystick](ss.png)
+![Godot Virtual Joystick](media/ss.png)
 
 ## Installation
 ### GIT
@@ -18,7 +18,7 @@ git clone https://github.com/rohanrhu/virtual-joystick
 ### Add a `Virtualjoystick` node.
 ### Add a `CollisionShape2D` and set a `CircleShape2D` to that.
 ### Set container and button textures
-![Texture Settings](texture-settings.png)
+![Texture Settings](media/texture-settings.png)
 
 ## Events
 ### `controlling`
